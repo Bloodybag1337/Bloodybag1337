@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Artem)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=32&duration=3000&pause=100&color=A515F7&random=false&width=500&lines=Hi%2C+I'm+Artem.+Welcome+to+my+GitHub+profile!;I+am+a+beginner+in+programming;I+am+coding+in+C%23;I+know+SQL+at+a+basic+level%2C+as+well+as+Git;This+list+will+continue+to+grow;Have+a+nice+day!)](https://git.io/typing-svg)
